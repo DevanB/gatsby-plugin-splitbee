@@ -14,7 +14,8 @@ plugins: [
     resolve: `gatsby-plugin-splitbee`,
     options: {
       includeInDevelopment: false,
-      delayTimeout: 0
+      delayTimeout: 0,
+      disableCookies: true // currently a beta feature, see https://splitbee.io/blog/javascript-library
     },
   },
 ]
