@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-splitbee",
   "description": "Gatsby plugin to add Splitbee to a Gatsby site",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Devan Beitel <devan@devanthe.dev>",
   "license": "MIT",
   "repository": {
