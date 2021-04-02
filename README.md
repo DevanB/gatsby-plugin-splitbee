@@ -15,7 +15,7 @@ plugins: [
     options: {
       includeInDevelopment: false,
       delayTimeout: 0,
-      disableCookie: true
+      disableCookie: false
     },
   },
 ]
